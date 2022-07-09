@@ -1,6 +1,6 @@
 ## Kaisti Research Group
 
-![Alt text for broken image link](assets/images/bio-photo.jpg)
+![Alt text for broken image link](/assets/images/bio-photo.jpg)
 
 You can use the [editor on GitHub](https://github.com/mkaist/webtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
