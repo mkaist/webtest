@@ -1,6 +1,7 @@
 ## Kaisti Research Group
 
-![Alt text for broken image link](/assets/images/bio-photo.jpg)
+
+![Image](/assets/images/bio-photo.jpg)
 
 Images not working
 
