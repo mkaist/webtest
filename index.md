@@ -1,4 +1,4 @@
-## Kaisti Research Group
+# Research Group
 
 
 ![Image](/assets/images/bio-photo.jpg)
