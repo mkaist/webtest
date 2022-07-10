@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: <enter your title here>
 layout: default
@@ -6,8 +5,7 @@ nav_order: 1
 ---
 
 ## Kaisti Research Group
-=======
->>>>>>> d1527984fa5035a2b3643efe7c7bafd882b0a0c5
+
 
 
 ![Image](/assets/images/bio-photo.jpg)
