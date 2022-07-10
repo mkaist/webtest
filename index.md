@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: <enter your title here>
 layout: default
@@ -5,6 +6,8 @@ nav_order: 1
 ---
 
 ## Kaisti Research Group
+=======
+>>>>>>> d1527984fa5035a2b3643efe7c7bafd882b0a0c5
 
 
 ![Image](/assets/images/bio-photo.jpg)
@@ -13,7 +16,6 @@ nav_order: 1
 
 <img src="/assets/images/bio-photo.jpg" alt="">
 
-Images not working
 
 You can use the [editor on GitHub](https://github.com/mkaist/webtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
