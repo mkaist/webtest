@@ -6,13 +6,7 @@ nav_order: 1
 
 ## Kaisti Research Group
 
-
-
 ![Image](/assets/images/bio-photo.jpg)
-
-![image](/assets/images/bio-photo.jpg)
-
-<img src="/assets/images/bio-photo.jpg" alt="">
 
 
 You can use the [editor on GitHub](https://github.com/mkaist/webtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
