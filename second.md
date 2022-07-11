@@ -10,7 +10,7 @@ Lorem ipsum, add some bp figures
 ![Image](/assets/images/bp-image.png)
 
 ## Clinical machine learning
-Lorem ipsum, add wear me figure
+We aim to bring forth new methods for trustworty AI in high stakes medical decision making. We aim to develop understandable models and improved validation methodologies that take differences of various domains. A key research direction benefits from the use of synthetic data for domain invariant models, understanding model behaviour and for privacy preserving training. 
 
 ![Image](/assets/images/ai-image.png)
 
