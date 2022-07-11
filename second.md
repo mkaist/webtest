@@ -4,8 +4,8 @@ layout: default
 nav_order: 2
 ---
 
-## Hemodynamic monitoring
-Lorem ipsum, add some bp figures
+## Medical instruments
+We develop new medical instruments for integrated monitoring solutions that are convinient to use and come in miniature form-factor for non-invasive remote monitoring.
 
 ![Image](/assets/images/bp-image.png)
 
