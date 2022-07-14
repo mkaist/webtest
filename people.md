@@ -7,6 +7,8 @@ nav_order: 3
 ### Matti Kaisti
 Lorem ipsum
 
+![Image](/assets/images/avarat_mka.jpg)
+
 ### Tuukka Panula
 Lorem ipsum
 
