@@ -12,6 +12,8 @@ We develop new non-invasive medical instruments to extract new digital biomarker
 ## Digital biosignal analytics
 We create robust algortihms for extracting digital biomarkers from physilogical signals in various cardiac diseases and in hemodynamic monitoring.   
 
+![Image](/assets/images/afib_algo.png)
+
 ## Clinical machine learning
 We aim to bring forth new methods for trustworty AI in high stakes medical decision making. We aim to develop understandable models and improved validation methodologies. A key research direction uses synthetic data for domain invariant models and for understanding model behaviour.
 
