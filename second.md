@@ -10,7 +10,7 @@ We develop new non-invasive medical instruments to extract new digital biomarker
 ![Image](/assets/images/bp-image.png)
 
 ## Digital biosignal analytics
-We create robust algortihms for extracting digital biomarkers from physilogical signals in various cardiac diseases and in hemodynamic monitoring.   
+We create robust algortihms for extracting digital biomarkers from physiological signals for cardiac disease and in hemodynamic monitoring.   
 
 ![Image](/assets/images/afib_algo.png)
 
